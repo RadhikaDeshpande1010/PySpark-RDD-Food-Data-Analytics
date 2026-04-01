@@ -9,8 +9,10 @@ Hands-on PySpark RDD project applying core transformation operations — `map`, 
 ```
 pyspark-rdd-food-data-analytics/
 │
-├── pyspark_rdd_food_data_analytics.ipynb   # Main notebook (20 RDD exercises)
-├── food_data.csv                           # Source dataset (20 food items)
+├── notebook
+    ├── pyspark_rdd_food_data_analytics.ipynb   # Main notebook (20 RDD exercises)
+├── data  
+    ├── food_data.csv                           # Source dataset (20 food items)
 └── README.md
 ```
 
